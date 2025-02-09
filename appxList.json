@@ -1,5 +1,10 @@
 [
   {
+    "appName": "Maths Masti by Vipin Sir",
+    "appApi": "mathsmastivipinsirapi.akamai.net.in",
+    "appIcon": "https://i.ibb.co/TGqVBXW/1000354313.jpg"
+  },
+  {
     "appName": "Bio Guru",
     "appApi": "bioguruapi.classx.co.in",
     "appIcon": "https://i.postimg.cc/hPKm31Lf/IMG-20240905-220149.jpg"
@@ -35,4 +40,3 @@
     "appIcon": "https://i.postimg.cc/ZK9mm1Fg/20240905-221240.jpg"
   }
 ]
-
